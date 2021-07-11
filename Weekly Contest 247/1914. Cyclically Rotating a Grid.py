@@ -1,3 +1,9 @@
+'''
+Reference:
+https://leetcode.com/problems/cyclically-rotating-a-grid/discuss/1299544/Python-Recursive-Solution-with-Diagram by tonghuikang
+'''
+
+
 class Solution(object):
     def rotateGrid(self, grid, k):
         """
