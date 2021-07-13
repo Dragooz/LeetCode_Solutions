@@ -1,2 +1,2 @@
-# LeetCode_Solutions
+# LeetCode_Solutions (3 Questions Daily)
 Keep updating
